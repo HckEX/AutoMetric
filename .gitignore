@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# git clone files
+
+git-clone/
+
+# vuddy files
+
+vuddy-master/
+hmark-master/
+hidx/
+ctags.exe
+function.js
+ctags
+function.go
+
+#i/o files
+input.txt
+output.json
